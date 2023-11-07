@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Iterator Pattern", "Iterator Pattern\Iterator Pattern\Iterator Pattern.vcxproj", "{16A49273-D3CE-4C82-9EE2-0948F53E612B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Iterator Pattern", "Iterator Pattern\Iterator Pattern.vcxproj", "{16A49273-D3CE-4C82-9EE2-0948F53E612B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memento Pattern", "Memento Pattern\Memento Pattern\Memento Pattern.vcxproj", "{A21C7A85-DE49-4214-8A7B-C03B44D1390B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memento Pattern", "Memento Pattern\Memento Pattern.vcxproj", "{A21C7A85-DE49-4214-8A7B-C03B44D1390B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "State Pattern", "State Pattern\State Pattern\State Pattern.vcxproj", "{773F6491-091A-4417-9F8E-CC874CACB91F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "State Pattern", "State Pattern\State Pattern.vcxproj", "{773F6491-091A-4417-9F8E-CC874CACB91F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy Pattern", "Strategy Pattern\Strategy Pattern\Strategy Pattern.vcxproj", "{63C51323-3799-4B1B-BB47-1B9F4DAABFEB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy Pattern", "Strategy Pattern\Strategy Pattern.vcxproj", "{63C51323-3799-4B1B-BB47-1B9F4DAABFEB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Template Method Pattern", "Template Method Pattern\Template Method Pattern\Template Method Pattern.vcxproj", "{53B7218A-E6BB-4FD6-A35F-60E14C760D19}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Template Method Pattern", "Template Method Pattern\Template Method Pattern.vcxproj", "{53B7218A-E6BB-4FD6-A35F-60E14C760D19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
