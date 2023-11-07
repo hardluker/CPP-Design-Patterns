@@ -18,6 +18,8 @@ int main() {
 	dataSource.addObserver(sheet2);
 	dataSource.addObserver(chart);
 
+	//Whenever the value is updated, the observers are notified.
+	//At the same time the observers request for the value.
 	dataSource.setValue(2);
 	dataSource.setValue(3);
 	return 0;
