@@ -4,9 +4,9 @@
 class AddCustomerCommand : public Command
 {
 public:
-	AddCustomerCommand(const CustomerService& customerService);
+	AddCustomerCommand(CustomerService& customerService);
 	void execute() override;
 private:
-	CustomerService customerService;
+	CustomerService& customerService;
 };
 
