@@ -3,7 +3,7 @@
 void DataSource::setValue(int value)
 {
 	this->value = value;
-	notifyObservers();
+	notifyObservers();        //notifyObservers from parent "Subject" class is called.
 }
 
 int DataSource::getValue()

@@ -5,5 +5,5 @@ SpreadSheet::SpreadSheet(DataSource& dataSource) : dataSource(dataSource)
 {}
 void SpreadSheet::update()
 {
-	cout << "SpreadSheet got notified:" << dataSource.getValue() << endl;
+	cout << "SpreadSheet got notified:" << dataSource.getValue() << endl; //Pulls the data when the update is notified.
 }

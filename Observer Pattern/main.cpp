@@ -9,7 +9,8 @@ using namespace std;
 int main() {
 	DataSource dataSource;
 
-	shared_ptr<SpreadSheet> sheet1 = make_shared<SpreadSheet>(dataSource);
+	//Pointers needed for referencing base class container in polymorphism.
+	shared_ptr<SpreadSheet> sheet1 = make_shared<SpreadSheet>(dataSource); 
 	shared_ptr<SpreadSheet> sheet2 = make_shared<SpreadSheet>(dataSource);
 	shared_ptr<Chart> chart = make_shared<Chart>(dataSource);
 

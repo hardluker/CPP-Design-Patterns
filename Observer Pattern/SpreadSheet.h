@@ -4,9 +4,9 @@
 class SpreadSheet : public Observer
 {
 public:
-	SpreadSheet(DataSource& dataSource);
+	SpreadSheet(DataSource& dataSource); //Setting the DataSource reference during construction
 	void update() override;
 private:
-	DataSource& dataSource;
+	DataSource& dataSource; //Aggregating a DataSource reference for pull requesting the value on demand
 };
 

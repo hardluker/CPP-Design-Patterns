@@ -4,7 +4,7 @@
 class DataSource : public Subject
 {
 public:
-	int getValue();
+	int getValue(); //This is our value that gets pulled by our concrete observers
 	void setValue(int value);
 private:
 	int value;
