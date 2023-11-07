@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AddCustomerCommand.cpp" />
+    <ClCompile Include="fx\Button.cpp" />
+    <ClCompile Include="fx\Command.cpp" />
+    <ClCompile Include="CustomerService.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddCustomerCommand.h" />
+    <ClInclude Include="fx\Button.h" />
+    <ClInclude Include="fx\Command.h" />
+    <ClInclude Include="CustomerService.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
