@@ -4,5 +4,5 @@ AddCustomerCommand::AddCustomerCommand(CustomerService& customerService) : custo
 
 void AddCustomerCommand::execute()
 {
-	customerService.addCustomer();
+	customerService.addCustomer(); // Executes the logic of the CustomerService class addCustomer method.
 }

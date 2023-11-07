@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 	CustomerService service; // This is our service.
 	AddCustomerCommand command(service); // This is the command type
-	Button button(command); //The button passes the specific command
+	Button button(command); //The button passes the specific command this button can work with any kind of command.
 	
 	//The abstract command and the button class are both part of the framework. Whereas,
 	//The service and the specific command classes are part of the application.

@@ -7,6 +7,6 @@ public:
 	AddCustomerCommand(CustomerService& customerService);
 	void execute() override;
 private:
-	CustomerService& customerService;
+	CustomerService& customerService; // contains CustomerService reference
 };
 
