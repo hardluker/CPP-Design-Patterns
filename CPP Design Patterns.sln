@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mediator Pattern", "Mediato
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chain Of Responsibility Pattern", "Chain Of Responsibility Pattern\Chain Of Responsibility Pattern.vcxproj", "{1FE5CAC1-24AA-4EAC-AF1D-CD776F076781}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Visitor Pattern", "Visitor Pattern\Visitor Pattern.vcxproj", "{90F1AEFE-C39D-46A5-8BEA-8304F8579073}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{1FE5CAC1-24AA-4EAC-AF1D-CD776F076781}.Release|x64.Build.0 = Release|x64
 		{1FE5CAC1-24AA-4EAC-AF1D-CD776F076781}.Release|x86.ActiveCfg = Release|Win32
 		{1FE5CAC1-24AA-4EAC-AF1D-CD776F076781}.Release|x86.Build.0 = Release|Win32
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Debug|x64.ActiveCfg = Debug|x64
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Debug|x64.Build.0 = Debug|x64
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Debug|x86.ActiveCfg = Debug|Win32
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Debug|x86.Build.0 = Debug|Win32
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Release|x64.ActiveCfg = Release|x64
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Release|x64.Build.0 = Release|x64
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Release|x86.ActiveCfg = Release|Win32
+		{90F1AEFE-C39D-46A5-8BEA-8304F8579073}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
