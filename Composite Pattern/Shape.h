@@ -5,6 +5,6 @@ using namespace std;
 class Shape : public Object
 {
 public:
-	void render();
+	void render() override;
 };
 

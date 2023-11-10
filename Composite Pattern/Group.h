@@ -6,7 +6,7 @@ class Group : public Object
 {
 public:
 	void add(Object* object);
-	void render();
+	void render() override;
 private:
 	list<Object*> objects;
 };
