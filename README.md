@@ -1,5 +1,5 @@
-<p><span style="font-size: 26px;"><strong>What are the Gang of Four Design Patterns?</strong></span></p> </br>
-![image](https://github.com/hardluker/CPP-Design-Patterns/assets/140025216/97d79549-c4ef-4cab-a9f8-71b07d59ceda)
+<p><span style="font-size: 26px;"><strong>What are the Gang of Four Design Patterns?</strong></span></p>
+![image](https://github.com/hardluker/CPP-Design-Patterns/assets/140025216/d3dc5d44-56a2-45bf-a4b5-6834db28bc96)
 
 <p>These are design patterns introduced by four experts in 1994. The famous book is titled &quot;Design Patterns: Elements of Reusable Object-Oriented Software.&quot;&nbsp;</p>
 <p>These help us solve common problems and build software that is flexible, extendible, and that functions well.</p>
