@@ -1,7 +1,13 @@
+//Compressed "Decorator"
 #pragma once
-#include "CloudStream.h"
-class CompressedCloudStream : public CloudStream
+#include "Stream.h"
+class CompressedCloudStream : public Stream
 {
-	void write(const string& data);
+public:
+	CompressedCloudStream(Stream* stream);
+	void write(const string& data) override;
+private:
+	string compress(const string& data);
+	Stream* stream;
 };
 

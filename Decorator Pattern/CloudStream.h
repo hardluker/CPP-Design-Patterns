@@ -1,10 +1,12 @@
+//"Base" CloudStream implementation of Stream
 #pragma once
 #include<string>
 #include <iostream>
+#include "Stream.h"
 using namespace std;
-class CloudStream
+class CloudStream : public Stream
 {
 public:
-	virtual void write(const string& data);
+	void write(const string& data) override;
 };
 

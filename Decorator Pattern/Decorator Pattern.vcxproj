@@ -131,11 +131,13 @@
     <ClCompile Include="CompressedCloudStream.cpp" />
     <ClCompile Include="EncryptedCloudStream.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Stream.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CloudStream.h" />
     <ClInclude Include="CompressedCloudStream.h" />
     <ClInclude Include="EncryptedCloudStream.h" />
+    <ClInclude Include="Stream.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

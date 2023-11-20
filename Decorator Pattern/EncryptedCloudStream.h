@@ -1,10 +1,13 @@
+//Encrypted "Decorator"
 #pragma once
-#include "CloudStream.h"
-class EncryptedCloudStream : public CloudStream
+#include "Stream.h"
+class EncryptedCloudStream : public Stream
 {
 public:
+	EncryptedCloudStream(Stream* stream);
 	void write(const string& data) override;
 private:
 	string encrypt(const string& data) const;
+	Stream* stream;
 };
 
