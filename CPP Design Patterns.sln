@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flyweight Pattern", "Flywei
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bridge Pattern", "Bridge Pattern\Bridge Pattern.vcxproj", "{0082A984-FD66-4AA2-8A0D-1B8A29189FD6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proxy Pattern", "Proxy Pattern\Proxy Pattern.vcxproj", "{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{0082A984-FD66-4AA2-8A0D-1B8A29189FD6}.Release|x64.Build.0 = Release|x64
 		{0082A984-FD66-4AA2-8A0D-1B8A29189FD6}.Release|x86.ActiveCfg = Release|Win32
 		{0082A984-FD66-4AA2-8A0D-1B8A29189FD6}.Release|x86.Build.0 = Release|Win32
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Debug|x64.ActiveCfg = Debug|x64
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Debug|x64.Build.0 = Debug|x64
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Debug|x86.ActiveCfg = Debug|Win32
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Debug|x86.Build.0 = Debug|Win32
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Release|x64.ActiveCfg = Release|x64
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Release|x64.Build.0 = Release|x64
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Release|x86.ActiveCfg = Release|Win32
+		{90A5CF0B-65B3-463A-BA69-4B6CFA70007F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
