@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decorator Pattern", "Decora
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Facade Pattern", "Facade Pattern\Facade Pattern.vcxproj", "{119975AC-0FE6-4DA2-8EE1-C28032872684}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flyweight Pattern", "Flyweight Pattern\Flyweight Pattern.vcxproj", "{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{119975AC-0FE6-4DA2-8EE1-C28032872684}.Release|x64.Build.0 = Release|x64
 		{119975AC-0FE6-4DA2-8EE1-C28032872684}.Release|x86.ActiveCfg = Release|Win32
 		{119975AC-0FE6-4DA2-8EE1-C28032872684}.Release|x86.Build.0 = Release|Win32
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Debug|x64.ActiveCfg = Debug|x64
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Debug|x64.Build.0 = Debug|x64
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Debug|x86.Build.0 = Debug|Win32
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Release|x64.ActiveCfg = Release|x64
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Release|x64.Build.0 = Release|x64
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Release|x86.ActiveCfg = Release|Win32
+		{5FEC86D7-FA5A-40AD-B7E9-C272AD5328FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
