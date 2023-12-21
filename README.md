@@ -2,7 +2,7 @@
 <p>These are design patterns introduced by four experts in 1994. The famous book is titled &quot;Design Patterns: Elements of Reusable Object-Oriented Software.&quot;&nbsp;</p>
 <p>These help us solve common problems and build software that is flexible, extendable, and that functions well.</p>
 <p><span style="font-size: 26px;"><strong>Implementation</strong></span></p>
-<p><span style="font-size: 16px;">I decided it would be highly beneficial to gain experience implementing all of these design patterns to learn them well. I have decided I would like to challenge myself and implement all of the design patterns in C++. This will give me the ability to share with others this implementation and to use it in my own applications in the future.</span></p>
+<p><span style="font-size: 16px;">I decided it would be highly beneficial to gain experience implementing all of these design patterns to learn them well. C++ is an excellent language to implement these patterns in. Due to the volume of polymorphic structures, these implementations demonstrate practical memory management in the context of late / early binding.</span></p>
 <p><span style="font-size: 16px;">One of the lovely things about design patterns is the reusability of them.</span></p>
 <p><span style="font-size: 26px;"><strong>Why C++?</strong></span></p>
 <p><span style="font-size: 16px;">C++ is a language that has always appealed to me. It is one of the fastest-performing programming languages in existence. It also is typically considered one of the more difficult languages due to the low-level knowledge that is required to develop properly functioning C++ projects.</span></p>
