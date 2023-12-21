@@ -1,6 +1,6 @@
 <p><span style="font-size: 26px;"><strong>What are the Gang of Four Design Patterns?</strong></span></p>
 <p>These are design patterns introduced by four experts in 1994. The famous book is titled &quot;Design Patterns: Elements of Reusable Object-Oriented Software.&quot;&nbsp;</p>
-<p>These help us solve common problems and build software that is flexible, extendible, and that functions well.</p>
+<p>These help us solve common problems and build software that is flexible, extendable, and that functions well.</p>
 <p><span style="font-size: 26px;"><strong>Implementation</strong></span></p>
 <p><span style="font-size: 16px;">I decided it would be highly beneficial to gain experience implementing all of these design patterns to learn them well. I have decided I would like to challenge myself and implement all of the design patterns in C++. This will give me the ability to share with others this implementation and to use it in my own applications in the future.</span></p>
 <p><span style="font-size: 16px;">One of the lovely things about design patterns is the reusability of them.</span></p>
