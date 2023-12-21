@@ -9,4 +9,4 @@
 <p>Implementing all of the design patterns in C++ in meaningful ways will strengthen proficiency in the language and provide a solid foundation for developing highly performing and professionally implemented object-oriented applications in C++.</p>
 <p><strong><span style="font-size: 26px;">UML Diagrams</span></strong></p>
 <p>Please check out the UML diagrams in each pattern to better understand the program for that particular implementation.</p>
-<a href="UML Diagrams/">Link here</a>
+UML Diagrams [Here](./UML-Diagrams)
